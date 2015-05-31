@@ -3,15 +3,12 @@ layout: page
 title: About
 permalink: /about/
 ---
+A personal blog and website by Tobias Doll.
 
-A medium inspired Jekyll blog theme. The basic idea came from the Ghost theme 
-[Readium 2.0](http://www.svenread.com/readium-ghost-theme/). I use mediator on my own blog [The Base](blog.base68.com).
+Born in Karlsruhe in 1985, Tobias holds a M.A. in classical archeology from Johannes Gutenberg-Universität Mainz and a M.Sc. in cultural heritage preservation from Technische Universität Berlin. He has worked on different excavations and projects in Germany, Greece, Italy and Norway. 
 
-You can **download** the theme here:
-[https://github.com/dirkfabisch/mediator](https://github.com/dirkfabisch/mediator) 
+He is interested in everything that combines the wonders of cultural heritage and the possibilities of information technology.
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+He is currently living in Berlin and hopes to find more time for blogging.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+This site is powered by github-pages, running a modified version of the [mediator theme](https://github.com/dirkfabisch/mediator) for [Jekyll](http://jekyllrb.com/).
