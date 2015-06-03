@@ -3,15 +3,15 @@ markdown: redcarpet
 highlighter: pygments
 gems:
   - jemoji
-  
+
 # Site settings
-title: "Denn wer arbeitet, ist ein subtiler Selbstmörder"
+title: "Mit dem Wissen wächst der Zweifel."
 description: > # this means to ignore newlines until "email:"
    A personal website and blog by Tobias Doll
 
 email: mail@tobiasdoll.de
 #blog logo
-logo: "/assets/images/df_logo.jpg"
+logo: "/assets/images/td_logo.png"
 # blog cover
 cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
 
