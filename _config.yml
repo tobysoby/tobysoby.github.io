@@ -17,7 +17,7 @@ cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
 
 name: 'Tobias Doll'
 author: 'Tobias Doll'
-author_image: "/assets/images/author.jpg"
+author_image: "/assets/images/author_2.jpg"
 
 paginate:	5
 
@@ -33,16 +33,30 @@ social:
     share_title: ?text=
     share_link: "&amp;url="
 
-#  - icon:	facebook
-#    url:	https://facebook.com/???
-#    desc: Connect with me facebook
-#    share_url: https://www.facebook.com/sharer.php
-#    share_title: ?t=
-#    share_link: "&amp;u="
+  - icon:	facebook
+    url:	https://www.facebook.com/te.de.7798
+    desc: Connect with me on facebook
+    share_url: https://www.facebook.com/sharer.php
+    share_title: ?t=
+    share_link: "&amp;u="
 
-  - icon:	github
-    url:	https://github.com/tobysoby
-    desc:	Fork me on github
+  - icon: github
+    url:  https://github.com/tobysoby
+    desc: Fork me on github
+    share_url:
+    share_title:
+    share_link:
+
+  - icon: xing
+    url:  https://www.xing.com/profile/Tobias_Doll5?sc_o=mxb_p
+    desc: Connect with me on xing
+    share_url:
+    share_title:
+    share_link:
+
+  - icon: linkedin
+    url:  https://www.linkedin.com/profile/view?id=376725901
+    desc: Connect with me on linkedin
     share_url:
     share_title:
     share_link:
@@ -53,3 +67,4 @@ social:
 #    share_url:
 #    share_title:
 #    share_link:
+
