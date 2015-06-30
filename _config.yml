@@ -5,7 +5,8 @@ gems:
   - jemoji
 
 # Site settings
-title: "Mit dem Wissen wächst der Zweifel."
+#title: "Mit dem Wissen wächst der Zweifel."
+title: "A personal homepage."
 description: > # this means to ignore newlines until "email:"
    A personal website and blog by Tobias Doll
 
