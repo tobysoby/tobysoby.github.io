@@ -3,6 +3,8 @@ title: about
 layout: page
 ---
 
+![Tobias Doll](/assets/images/avatar.gif)
+
 A personal blog and website by Tobias Doll.
 
 Born in Karlsruhe in 1985, Tobias holds a M.A. in classical archeology from Johannes Gutenberg-Universität Mainz and a M.Sc. in cultural heritage preservation from Technische Universität Berlin. He has worked on different excavations and projects in Germany, Greece, Italy and Norway.
