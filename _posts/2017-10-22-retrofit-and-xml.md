@@ -7,7 +7,7 @@ categories:
 - XML
 ---
 
-Für ein privates Projekt musste ich zuletzt mithilfe von Retrofit auf eine XML-Api zugreifen. Hierzu geht man wie folgt vor.
+Für ein Projekt musste ich zuletzt mithilfe von Retrofit auf eine XML-Api zugreifen. Hierzu geht man wie folgt vor.
 
 Die Einbindung von Retrofit in ein Android-Projekt wird auf der [Retrofit Homepage](http://square.github.io/retrofit/) sehr gut erklärt. Da Retrofit standardmäßig den HTTP-Body nur in OkHttps ResponseBody serialisieren kann, ist für das weitere Mapping des Inhalt ein sog. Converter nötig. Allerdings sind die meisten der prominent im Web zu findenden Beispiele für die Serialisierung von Json-Responses, etwa mithilfe von Gson oder Jackson.
 
