@@ -18,10 +18,10 @@ He is currently living in Bonn and hopes to find more time for blogging.
 
 **_CV_**
 
-*since 10/2015* Deutsche Welle, Bonn Germany: QA for Web and App-Development. Build&Deployment of mobile apps
+*since 10/2015*    Deutsche Welle, Bonn Germany: QA for Web and App-Development. Build&Deployment of mobile apps
 
-*02/2013 - 10/2015* PMG Presse-Monitor, Berlin Germany: QA for Web-Development.
+*02/2013 - 10/2015*    PMG Presse-Monitor, Berlin Germany: QA for Web-Development.
 
-*02/2013* MSc at the Technical University Berlin
+*02/2013*    MSc at the Technical University Berlin
 
-*04/2010* M.A. at the Johannes Gutenberg-Universität Mainz
+*04/2010*    M.A. at the Johannes Gutenberg-Universität Mainz
